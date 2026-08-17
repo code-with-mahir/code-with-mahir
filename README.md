@@ -47,7 +47,7 @@
   <a href="https://github.com/code-with-mahir" target="_blank">
     <img src="https://img.icons8.com/nolan/96/github.png" width="50"/>
   </a>
-  <a href="instagram.com/codewithmahir">
+  <a href="https://instagram.com/codewithmahir">
     <img src="https://img.icons8.com/nolan/96/instagram-new.png" width="50"/>
   </a>
 </p>
