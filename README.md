@@ -56,7 +56,7 @@
 
 ## 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,figma,python,postman,vercel,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,ts,nodejs,express,git,github,vscode,figma,python,vercel,npm" />
 
 </p>
 
@@ -64,15 +64,15 @@
 
 ## ⚡ GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warisha234&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warisha234&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithmahir&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmahir&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" height="170" />
 </p>
 
 ---
 
 ## 🌊 Contribution Flow 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=warisha234&bg_color=000000&color=00D9FF&line=00E5FF&point=00FFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmahir&bg_color=000000&color=00D9FF&line=00E5FF&point=00FFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -91,6 +91,6 @@
 
 ✨💙 *Thanks for visiting — Drop a ⭐ to support!* 💙✨  
 <br />
-<img src="https://img.shields.io/badge/Made%20with%20💙%20by-Warisha%20Turab-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Made%20with%20💙%20by-Mahir%20Sohel-00D9FF?style=for-the-badge" />
 
 </div>
