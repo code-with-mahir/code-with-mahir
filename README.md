@@ -79,7 +79,7 @@
 
 ## 💬 Quote of the Day
 > 🌟 **“Code is not just logic — it’s art in motion.”**  
-> — *Warisha Turab*
+> — *Mahir Sohel*
 
 ---
 
