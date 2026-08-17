@@ -34,7 +34,7 @@
 - 🌱 Currently mastering **Fullstack Engineering & Python**
 - ⚙️ Tech Stack: **HTML | CSS | JavaScript | TypeScript | Next.js | React.js | Bootstrap | Figma | Git | GitHub | Python | Node.js (Basics) | Firebase**
 - 💎 Passion: *Animated UI, Clean, Responsive Layouts & Python Developments*
-- 💌 Portfolio: **sohelhussain.dev**
+- 💌 Portfolio: <a href="https://sohelhussain.dev" target="_blank">
 - 😄 Fun Fact: *I don’t find bugs… bugs find me 😆*
 
 ---
