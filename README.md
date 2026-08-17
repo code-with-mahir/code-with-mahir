@@ -72,7 +72,7 @@
 
 ## 🌊 Contribution Flow 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-wit-hmahir&bg_color=000000&color=00D9FF&line=00E5FF&point=00FFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-mahir&bg_color=000000&color=00D9FF&line=00E5FF&point=00FFFF&area=true&hide_border=true" />
 </p>
 
 ---
