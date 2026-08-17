@@ -1,7 +1,7 @@
 <!-- <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/5aa5fda5-b5d5-40d3-8ad8-25b3bfdef8a1" /><div align="center"> -->
 <div align="center">
 <!-- Animated Neon Gradient Heading -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=2400&pause=300&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Hi+👋,+I'm+Mahir+Sohel;Full+Stack+Developer;UI+UX+Designer;Welcome+to+My+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=2400&pause=300&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Hi+👋,+I'm+Mahir+Sohel;Full+Stack+Developer;UI+UX+Designer;Python+Developer;Welcome+to+My+GitHub!" />
 
 
 </div>
@@ -31,24 +31,24 @@
 ---
 
 ## 🌸 About Me
-- 🌱 Currently mastering **Frontend Engineering**
-- ⚙️ Tech Stack: **HTML | CSS | JavaScript | TypeScript | Next.js | React.js | Bootstrap | Tailwind CSS | Figma | Git | GitHub | Python | Sass | Redux | Node.js (Basics) | Firebase**
-- 💎 Passion: *Animated UI, Clean Layouts & Responsive*
-- 💌 Email: **warishaturab@gmail.com**
+- 🌱 Currently mastering **Fullstack Engineering & Python**
+- ⚙️ Tech Stack: **HTML | CSS | JavaScript | TypeScript | Next.js | React.js | Bootstrap | Figma | Git | GitHub | Python | Node.js (Basics) | Firebase**
+- 💎 Passion: *Animated UI, Clean, Responsive Layouts & Python Developments*
+- 💌 Portfolio: **sohelhussain.dev**
 - 😄 Fun Fact: *I don’t find bugs… bugs find me 😆*
 
 ---
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/warisha-turab-8666b82b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/sohel-hussain/" target="_blank">
     <img src="https://img.icons8.com/nolan/96/linkedin.png" width="50"/>
   </a>
-  <a href="https://github.com/warisha234" target="_blank">
+  <a href="https://github.com/code-with-mahir" target="_blank">
     <img src="https://img.icons8.com/nolan/96/github.png" width="50"/>
   </a>
-  <a href="mailto:warishaturab@gmail.com">
-    <img src="https://img.icons8.com/nolan/96/gmail-new.png" width="50"/>
+  <a href="instagram.com/codewithmahir">
+    <img src="https://img.icons8.com/nolan/96/instagram-new.png" width="50"/>
   </a>
 </p>
 
