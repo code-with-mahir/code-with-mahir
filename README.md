@@ -1,7 +1,7 @@
 <!-- <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/5aa5fda5-b5d5-40d3-8ad8-25b3bfdef8a1" /><div align="center"> -->
 <div align="center">
 <!-- Animated Neon Gradient Heading -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=2400&pause=300&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&lines=Hi+👋,+I'm+Mahir+Sohel;Full+Stack+Developer;UI+UX+Designer;Python+Developer;Welcome+to+My+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Rum+Raisin&letterSpacing=2px&duration=2000&pause=1000&color=38C2FF&width=435&lines=Hii+%F0%9F%91%8B%2C+I'm+Mahir+Sohel!;I'm+a+Full-Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 
 </div>
