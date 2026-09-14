@@ -63,7 +63,6 @@
 ---
 
 ## <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/leetcode.png" width="30" height="30" alt="LeetCode logo"/> LeetCode
-
 <p align="center">
   <a href="https://leetcode.com/code-with-mahir">
     <img src="https://www.readmecodegen.com/api/leetcode-stats?username=code-with-mahir&theme=github_dark&reputation=false" alt="LeetCode Stats"/>
@@ -75,9 +74,7 @@
 
 ## ⚡ GitHub Stats 
 <p align="center">
-   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=code-with-mahir&hide_border=true&background=000000&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF&sideNums=00D9FF&dates=00D9FF&sideLabels=00D9FF&currStreakLabel=00E5FF" alt="GitHub Streak" />
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=code-with-mahir&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
