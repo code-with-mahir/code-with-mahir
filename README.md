@@ -76,7 +76,7 @@
 ## ⚡ GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithmahir&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmahir&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-mahir&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" height="170" />
 </p>
 
 ---
