@@ -63,8 +63,8 @@
 ---
 
 ## [![LeetCode](https://shields.io)](https://leetcode.com/code-with-mahir) LeeCode
-<p>
- [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=code-with-mahir&theme=github_dark&reputation=false)]( (https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+<p align="center">
+  [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=code-with-mahir&theme=github_dark&reputation=false)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
 </p>
 ---
 
