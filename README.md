@@ -74,7 +74,7 @@
 
 ## ⚡ GitHub Stats 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=code-with-mahir&theme=dark&hide_border=true&short_numbers=true&fire=FFDF00&ring=BAEB00" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=code-with-mahir&theme=dark&hide_border=true&short_numbers=true&fire=FFDF00&ring=BAEB00&background=000000" alt="GitHub Streak" /></a>
 </p>
 
 ---
