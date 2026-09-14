@@ -63,7 +63,7 @@
 ---
 
 ## <a href="https://leetcode.com">
-   <img src="https://githubusercontent.com" width="30" height="30" alt="LeetCode logo"/>
+   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/leetcode.png" width="30" height="30" alt="LeetCode logo"/>
    </a> LeetCode
 
 <p align="center">
