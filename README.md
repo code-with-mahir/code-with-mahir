@@ -62,7 +62,10 @@
 
 ---
 
-## [![LeetCode](https://shields.io)](https://leetcode.com/code-with-mahir) LeetCode
+## <a href="https://leetcode.com">
+  <img src="https://githubusercontent.com" width="30" height="30" alt="LeetCode logo"/>
+</a>
+ LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/code-with-mahir">
