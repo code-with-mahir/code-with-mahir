@@ -62,7 +62,7 @@
 
 ---
 
-## [![LeetCode](https://shields.io)](https://leetcode.com) LeeCode
+## [[![LeetCode](https://shields.io)](https://leetcode.com)](https://github.com/code-with-mahir) LeeCode
 [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=code-with-mahir&theme=github_dark&reputation=false)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
 
 ---
