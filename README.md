@@ -62,7 +62,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/leetcode.png" width="30" height="30" alt="LeetCode logo"/>LeetCode
+## <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/leetcode.png" width="30" height="30" alt="LeetCode logo"/> LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/code-with-mahir">
