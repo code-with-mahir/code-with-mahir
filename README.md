@@ -62,6 +62,11 @@
 
 ---
 
+## [![LeetCode](https://shields.io)](https://leetcode.com) LeeCode
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=code-with-mahir&theme=github_dark&reputation=false)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+
+---
+
 ## ⚡ GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithmahir&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" height="170" />
